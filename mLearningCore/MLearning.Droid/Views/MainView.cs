@@ -1131,7 +1131,7 @@ namespace MLearning.Droid.Views
 		private void RegisterWithGCM()
 		{
 
-
+			/*
 			if (!GcmClient.IsRegistered(this))
 			{
 				GcmClient.CheckDevice(this);
@@ -1144,7 +1144,7 @@ namespace MLearning.Droid.Views
 				GcmClient.Register(this, Core.Configuration.Constants.SenderID);
 
 			}
-
+			*/
 
 
 

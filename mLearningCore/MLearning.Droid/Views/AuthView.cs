@@ -29,7 +29,6 @@ namespace MLearning.Droid.Views
         private async Task Authenticate(MobileServiceAuthenticationProvider provider)
         {
            
-
                 try
                 {
                     WAMSRepositoryService service = Mvx.Resolve<IRepositoryService>() as WAMSRepositoryService;
